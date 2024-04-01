@@ -93,7 +93,8 @@ The ability to execute the exploit on the target<br>
 
 
 
-
+office2john readme.docx > hash.txt
+john -w=/usr/share/wordlists/rockyou.txt hash.txt
 
 
 
