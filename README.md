@@ -92,10 +92,10 @@ The ability to execute the exploit on the target<br>
 
 
 
-
+<br><br><br><br><br><br><br>
 office2john readme.docx > hash.txt
 john -w=/usr/share/wordlists/rockyou.txt hash.txt
-
+john –show hash.txt
 
 
 
